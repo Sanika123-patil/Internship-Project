@@ -1,0 +1,149 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Customer Feedback Project</title>
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background: #f2f5f9;
+            color: #333;
+            min-height: 100vh;
+        }
+
+        header {
+            background: #123456;
+            color: white;
+            text-align: center;
+            padding: 25px;
+        }
+
+        header h1 {
+            margin-bottom: 10px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 20px;
+        }
+
+        .project-card {
+            background: white;
+            padding: 25px;
+            margin-bottom: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+
+        .project-card h2 {
+            color: #123456;
+            margin-bottom: 12px;
+        }
+
+        .project-card p {
+            margin-bottom: 18px;
+            line-height: 1.6;
+        }
+
+        .file-link {
+            display: inline-block;
+            background: #007bff;
+            color: white;
+            padding: 11px 18px;
+            text-decoration: none;
+            border-radius: 5px;
+            margin: 5px 5px 5px 0;
+        }
+
+        .file-link:hover {
+            background: #0056b3;
+        }
+
+        footer {
+            text-align: center;
+            padding: 20px;
+            color: #666;
+        }
+
+        @media (max-width: 600px) {
+            .container {
+                margin: 20px auto;
+                padding: 15px;
+            }
+
+            header h1 {
+                font-size: 24px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>Customer Feedback Project</h1>
+        <p>Data Analysis Project Files</p>
+    </header>
+
+    <main class="container">
+
+        <section class="project-card">
+            <h2>Customer Feedback</h2>
+            <p>Open the Python file used for the customer feedback project.</p>
+            <a href="Customer%20feedback.py" class="file-link">
+                Open Python File
+            </a>
+        </section>
+
+        <section class="project-card">
+            <h2>Customer Feedback Data</h2>
+            <p>Access the customer feedback Excel dataset.</p>
+            <a href="customer_feedback.csv" class="file-link">
+                Open Customer Feedback Excel
+            </a>
+            <a href="retail_customer_feedback.xlsx" class="file-link">
+                Open Retail Feedback Excel
+            </a>
+        </section>
+
+        <section class="project-card">
+            <h2>Dashboard</h2>
+            <p>Open the project dashboard file.</p>
+            <a href="Dashboard.pbix" class="file-link">
+                Open Dashboard
+            </a>
+        </section>
+
+        <section class="project-card">
+            <h2>SQL Files</h2>
+            <p>Access the SQL scripts for database setup and queries.</p>
+            <a href="database_setup.sql" class="file-link">
+                Database Setup
+            </a>
+            <a href="insert_data.sql" class="file-link">
+                Insert Data
+            </a>
+            <a href="SQL%20QUERY.sql" class="file-link">
+                SQL Query
+            </a>
+        </section>
+
+    </main>
+
+    <footer>
+        <p>Customer Feedback Project | Data Analyst Portfolio</p>
+    </footer>
+
+</body>
+</html>

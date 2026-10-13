@@ -1,0 +1,101 @@
+Response_ID,Business_ID,Business_Category,Area,Service_Quality,Waiting_Time_Rating,Product_Availability,Price_Perception,Staff_Behaviour,Overall_Satisfaction,Improvement_Area,Visit_Frequency,Cleaned Data,Duplicate_Check,Rating_Check,Satisfaction_Group
+R001,B001,Grocery,Rajarampuri,4,4,5,3,4,4,Price,Weekly,Grocery,Unique,Valid,Satisfied
+R002,B001,Grocery,Shahupuri,5,4,5,4,5,5,Price,Weekly,Grocery,Unique,Valid,Satisfied
+R003,B001,Grocery,Laxmipuri,3,2,4,3,3,3,Waiting Time,Monthly,Grocery,Unique,Valid,Neutral
+R004,B001,Grocery,Shivaji Peth,4,2,5,3,4,3,Waiting Time,Weekly,Grocery,Unique,Valid,Neutral
+R005,B001,Grocery,Tarabai Park,5,5,5,4,5,5,Price,Daily,Grocery,Unique,Valid,Satisfied
+R006,B001,Grocery,Nagalapark,4,3,4,3,4,4,Price,Weekly,Grocery,Unique,Valid,Satisfied
+R007,B001,Grocery,Rankala,2,2,3,2,3,2,Price,Monthly,Grocery,Unique,Valid,Dissatisfied
+R008,B001,Grocery,Ujalaiwadi,4,4,5,4,4,4,Product Availability,Weekly,Grocery,Unique,Valid,Satisfied
+R009,B001,Grocery,Kasaba Bawada,5,5,5,4,5,5,Product Availability,Daily,Grocery,Unique,Valid,Satisfied
+R010,B001,Grocery,Kalamba,3,2,4,3,3,3,Waiting Time,Monthly,Grocery,Unique,Valid,Neutral
+R011,B002,Clothing,Rajarampuri,4,3,4,3,4,4,Price,Monthly,Clothing,Unique,Valid,Satisfied
+R012,B002,Clothing,Shahupuri,3,2,4,2,3,3,Price,Monthly,Clothing,Unique,Valid,Neutral
+R013,B002,Clothing,Laxmipuri,5,4,5,4,5,5,Price,Weekly,Clothing,Unique,Valid,Satisfied
+R014,B002,Clothing,Shivaji Peth,4,3,4,3,4,4,Product Availability,Monthly,Clothing,Unique,Valid,Satisfied
+R015,B002,Clothing,Tarabai Park,2,2,3,2,3,2,Price,Monthly,Clothing,Unique,Valid,Dissatisfied
+R016,B002,Clothing,Nagalapark,4,4,5,3,5,4,Price,Weekly,Clothing,Unique,Valid,Satisfied
+R017,B002,Clothing,Rankala,5,4,5,4,5,5,Product Availability,Weekly,Clothing,Unique,Valid,Satisfied
+R018,B002,Clothing,Ujalaiwadi,3,2,3,3,3,3,Waiting Time,Monthly,Clothing,Unique,Valid,Neutral
+R019,B002,Clothing,Kasaba Bawada,4,3,4,3,4,4,Price,Weekly,Clothing,Unique,Valid,Satisfied
+R020,B002,Clothing,Kalamba,3,2,4,2,3,2,Price,Monthly,Clothing,Unique,Valid,Dissatisfied
+R021,B003,Bakery,Rajarampuri,5,4,5,4,5,5,Product Availability,Daily,Bakery,Unique,Valid,Satisfied
+R022,B003,Bakery,Shahupuri,4,3,5,4,4,4,Price,Weekly,Bakery,Unique,Valid,Satisfied
+R023,B003,Bakery,Laxmipuri,5,3,5,4,5,5,Waiting Time,Daily,Bakery,Unique,Valid,Satisfied
+R024,B003,Bakery,Shivaji Peth,4,2,4,3,4,3,Waiting Time,Weekly,Bakery,Unique,Valid,Neutral
+R025,B003,Bakery,Tarabai Park,5,4,5,4,5,5,Price,Daily,Bakery,Unique,Valid,Satisfied
+R026,B003,Bakery,Nagalapark,4,3,4,3,4,4,Price,Weekly,Bakery,Unique,Valid,Satisfied
+R027,B003,Bakery,Rankala,3,2,4,3,3,3,Waiting Time,Monthly,Bakery,Unique,Valid,Neutral
+R028,B003,Bakery,Ujalaiwadi,5,5,5,4,5,5,Price,Daily,Bakery,Unique,Valid,Satisfied
+R029,B003,Bakery,Kasaba Bawada,4,4,5,4,4,4,Product Availability,Weekly,Bakery,Unique,Valid,Satisfied
+R030,B003,Bakery,Kalamba,3,2,4,3,3,3,Waiting Time,Monthly,Bakery,Unique,Valid,Neutral
+R031,B004,Electronics,Rajarampuri,4,3,4,3,4,4,Price,Monthly,Electronics,Unique,Valid,Satisfied
+R032,B004,Electronics,Shahupuri,2,2,3,2,3,2,Price,Monthly,Electronics,Unique,Valid,Dissatisfied
+R033,B004,Electronics,Laxmipuri,4,3,5,3,4,4,Price,Weekly,Electronics,Unique,Valid,Satisfied
+R034,B004,Electronics,Shivaji Peth,5,4,5,4,5,5,Service Quality,Weekly,Electronics,Unique,Valid,Satisfied
+R035,B004,Electronics,Tarabai Park,3,2,3,2,3,2,Price,Monthly,Electronics,Unique,Valid,Dissatisfied
+R036,B004,Electronics,Nagalapark,4,3,4,3,4,4,Product Availability,Weekly,Electronics,Unique,Valid,Satisfied
+R037,B004,Electronics,Rankala,3,2,4,2,3,3,Price,Monthly,Electronics,Unique,Valid,Neutral
+R038,B004,Electronics,Ujalaiwadi,5,4,5,4,5,5,Service Quality,Weekly,Electronics,Unique,Valid,Satisfied
+R039,B004,Electronics,Kasaba Bawada,4,3,4,3,4,4,Price,Monthly,Electronics,Unique,Valid,Satisfied
+R040,B004,Electronics,Kalamba,3,1,3,2,3,2,Waiting Time,Monthly,Electronics,Unique,Valid,Dissatisfied
+R041,B005,Pharmacy,Rajarampuri,5,4,5,4,5,5,Waiting Time,Weekly,Pharmacy,Unique,Valid,Satisfied
+R042,B005,Pharmacy,Shahupuri,4,3,5,4,4,4,Price,Weekly,Pharmacy,Unique,Valid,Satisfied
+R043,B005,Pharmacy,Laxmipuri,5,5,5,4,5,5,Waiting Time,Daily,Pharmacy,Unique,Valid,Satisfied
+R044,B005,Pharmacy,Shivaji Peth,4,3,4,3,4,4,Price,Weekly,Pharmacy,Unique,Valid,Satisfied
+R045,B005,Pharmacy,Tarabai Park,5,4,5,4,5,5,Product Availability,Weekly,Pharmacy,Unique,Valid,Satisfied
+R046,B005,Pharmacy,Nagalapark,3,2,4,3,3,3,Waiting Time,Monthly,Pharmacy,Unique,Valid,Neutral
+R047,B005,Pharmacy,Rankala,4,3,5,4,4,4,Price,Weekly,Pharmacy,Unique,Valid,Satisfied
+R048,B005,Pharmacy,Ujalaiwadi,5,4,5,4,5,5,Waiting Time,Daily,Pharmacy,Unique,Valid,Satisfied
+R049,B005,Pharmacy,Kasaba Bawada,4,2,4,3,4,3,Waiting Time,Monthly,Pharmacy,Unique,Valid,Neutral
+R050,B005,Pharmacy,Kalamba,5,5,5,4,5,5,Price,Daily,Pharmacy,Unique,Valid,Satisfied
+R051,B001,Grocery,Rajarampuri,3,3,4,3,4,3,Price,Weekly,Grocery,Unique,Valid,Neutral
+R052,B001,Grocery,Shahupuri,5,4,5,4,5,5,Product Availability,Daily,Grocery,Unique,Valid,Satisfied
+R053,B001,Grocery,Laxmipuri,3,2,4,2,3,3,Waiting Time,Monthly,Grocery,Unique,Valid,Neutral
+R054,B001,Grocery,Shivaji Peth,4,2,5,3,4,3,Waiting Time,Weekly,Grocery,Unique,Valid,Neutral
+R055,B001,Grocery,Tarabai Park,5,5,5,4,5,5,Price,Daily,Grocery,Unique,Valid,Satisfied
+R056,B001,Grocery,Nagalapark,4,3,4,3,4,4,Price,Weekly,Grocery,Unique,Valid,Satisfied
+R057,B001,Grocery,Rankala,2,2,3,2,3,2,Price,Monthly,Grocery,Unique,Valid,Dissatisfied
+R058,B001,Grocery,Ujalaiwadi,4,4,5,4,4,4,Product Availability,Weekly,Grocery,Unique,Valid,Satisfied
+R059,B001,Grocery,Kasaba Bawada,5,4,5,4,5,5,Service Quality,Daily,Grocery,Unique,Valid,Satisfied
+R060,B001,Grocery,Kalamba,3,2,4,3,3,3,Waiting Time,Monthly,Grocery,Unique,Valid,Neutral
+R061,B002,Clothing,Rajarampuri,4,3,4,3,4,4,Price,Weekly,Clothing,Unique,Valid,Satisfied
+R062,B002,Clothing,Shahupuri,3,2,4,2,3,3,Price,Monthly,Clothing,Unique,Valid,Neutral
+R063,B002,Clothing,Laxmipuri,5,4,5,4,5,5,Price,Weekly,Clothing,Unique,Valid,Satisfied
+R064,B002,Clothing,Shivaji Peth,4,3,5,3,4,4,Product Availability,Monthly,Clothing,Unique,Valid,Satisfied
+R065,B002,Clothing,Tarabai Park,2,2,3,2,3,2,Price,Monthly,Clothing,Unique,Valid,Dissatisfied
+R066,B002,Clothing,Nagalapark,4,4,5,3,5,4,Service Quality,Weekly,Clothing,Unique,Valid,Satisfied
+R067,B002,Clothing,Rankala,5,4,5,4,5,5,Product Availability,Weekly,Clothing,Unique,Valid,Satisfied
+R068,B002,Clothing,Ujalaiwadi,3,2,3,3,3,3,Waiting Time,Monthly,Clothing,Unique,Valid,Neutral
+R069,B002,Clothing,Kasaba Bawada,4,3,4,3,4,4,Price,Weekly,Clothing,Unique,Valid,Satisfied
+R070,B002,Clothing,Kalamba,3,2,4,2,3,2,Price,Monthly,Clothing,Unique,Valid,Dissatisfied
+R071,B003,Bakery,Rajarampuri,5,4,5,4,5,5,Product Availability,Daily,Bakery,Unique,Valid,Satisfied
+R072,B003,Bakery,Shahupuri,4,3,5,4,4,4,Price,Weekly,Bakery,Unique,Valid,Satisfied
+R073,B003,Bakery,Laxmipuri,5,3,5,4,5,5,Waiting Time,Daily,Bakery,Unique,Valid,Satisfied
+R074,B003,Bakery,Shivaji Peth,4,2,4,3,4,3,Waiting Time,Weekly,Bakery,Unique,Valid,Neutral
+R075,B003,Bakery,Tarabai Park,5,4,5,4,5,5,Price,Daily,Bakery,Unique,Valid,Satisfied
+R076,B003,Bakery,Nagalapark,4,3,4,3,4,4,Price,Weekly,Bakery,Unique,Valid,Satisfied
+R077,B003,Bakery,Rankala,3,2,4,3,3,3,Waiting Time,Monthly,Bakery,Unique,Valid,Neutral
+R078,B003,Bakery,Ujalaiwadi,5,5,5,4,5,5,Price,Daily,Bakery,Unique,Valid,Satisfied
+R079,B003,Bakery,Kasaba Bawada,4,3,5,4,4,4,Product Availability,Weekly,Bakery,Unique,Valid,Satisfied
+R080,B003,Bakery,Kalamba,3,2,4,3,3,3,Waiting Time,Monthly,Bakery,Unique,Valid,Neutral
+R081,B004,Electronics,Rajarampuri,4,3,4,3,4,4,Price,Monthly,Electronics,Unique,Valid,Satisfied
+R082,B004,Electronics,Shahupuri,3,2,3,2,3,2,Price,Monthly,Electronics,Unique,Valid,Dissatisfied
+R083,B004,Electronics,Laxmipuri,4,3,5,3,4,4,Product Availability,Weekly,Electronics,Unique,Valid,Satisfied
+R084,B004,Electronics,Shivaji Peth,5,4,5,4,5,5,Service Quality,Weekly,Electronics,Unique,Valid,Satisfied
+R085,B004,Electronics,Tarabai Park,2,2,3,2,3,2,Price,Monthly,Electronics,Unique,Valid,Dissatisfied
+R086,B004,Electronics,Nagalapark,4,3,4,3,4,4,Product Availability,Weekly,Electronics,Unique,Valid,Satisfied
+R087,B004,Electronics,Rankala,3,2,4,2,3,3,Price,Monthly,Electronics,Unique,Valid,Neutral
+R088,B004,Electronics,Ujalaiwadi,5,4,5,4,5,5,Service Quality,Weekly,Electronics,Unique,Valid,Satisfied
+R089,B004,Electronics,Kasaba Bawada,4,3,4,3,4,4,Price,Monthly,Electronics,Unique,Valid,Satisfied
+R090,B004,Electronics,Kalamba,3,1,3,2,3,2,Waiting Time,Monthly,Electronics,Unique,Valid,Dissatisfied
+R091,B005,Pharmacy,Rajarampuri,5,4,5,4,5,5,Waiting Time,Weekly,Pharmacy,Unique,Valid,Satisfied
+R092,B005,Pharmacy,Shahupuri,4,3,5,4,4,4,Price,Weekly,Pharmacy,Unique,Valid,Satisfied
+R093,B005,Pharmacy,Laxmipuri,5,5,5,4,5,5,Waiting Time,Daily,Pharmacy,Unique,Valid,Satisfied
+R094,B005,Pharmacy,Shivaji Peth,4,3,4,3,4,4,Price,Weekly,Pharmacy,Unique,Valid,Satisfied
+R095,B005,Pharmacy,Tarabai Park,5,4,5,4,5,5,Product Availability,Weekly,Pharmacy,Unique,Valid,Satisfied
+R096,B005,Pharmacy,Nagalapark,3,2,4,3,3,3,Waiting Time,Monthly,Pharmacy,Unique,Valid,Neutral
+R097,B005,Pharmacy,Rankala,4,3,5,4,4,4,Price,Weekly,Pharmacy,Unique,Valid,Satisfied
+R098,B005,Pharmacy,Ujalaiwadi,5,4,5,4,5,5,Waiting Time,Daily,Pharmacy,Unique,Valid,Satisfied
+R099,B005,Pharmacy,Kasaba Bawada,4,2,4,3,4,3,Waiting Time,Monthly,Pharmacy,Unique,Valid,Neutral
+R100,B005,Pharmacy,Kalamba,5,5,5,4,5,5,Price,Daily,Pharmacy,Unique,Valid,Satisfied
